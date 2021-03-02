@@ -1,0 +1,22 @@
+# Exclude directories
+
+# 01_code/*
+02_rdata/*
+# !02_rdata/a_directory  # Use this to include some subdirectories under ignored directory.
+03_wdata/*
+# 04_results_[dates]/*
+
+
+# Exclude data files
+# IF STORE FILES PROPERLY, NOT NEED TO USE THESE
+
+# *.dta
+# *.xlsx
+# *.xls
+# *.csv
+# *.parquet
+# *.pickle
+# *.sas7bdat
+# *.sav
+# *.txt
+# *.dbf
