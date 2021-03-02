@@ -20,3 +20,4 @@ This repo is to document my methodology on data science work, for my reference a
 
 - Version control
   - [.gitignore](./configs/.gitignore): Here is a sample `.gitignore` config that I import to my project right after `git init`.
+    - Simply retrieve by: `wget https://raw.githubusercontent.com/Wenzhi-Ding/Data_Scientist_Methodology/main/configs/.gitignore`

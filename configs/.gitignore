@@ -1,6 +1,6 @@
 # Exclude directories
 
-# 01_code/*
+01_code/.ipynb_checkpoints/*
 02_rdata/*
 # !02_rdata/a_directory  # Use this to include some subdirectories under ignored directory.
 03_wdata/*
