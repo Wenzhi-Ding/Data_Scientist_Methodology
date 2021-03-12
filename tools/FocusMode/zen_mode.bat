@@ -1,0 +1,1 @@
+python "E:\Code\Shortcut\zen_mode.py"

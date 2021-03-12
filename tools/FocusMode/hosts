@@ -1,0 +1,37 @@
+# B站
+127.0.0.1 www.bilibili.com
+127.0.0.1 api.bilibili.com  # B站小程序
+127.0.0.1 activity.hdslb.com  # B站小程序
+
+# 推特
+127.0.0.1 twitter.com
+
+# 知乎
+127.0.0.1 www.zhihu.com
+127.0.0.1 zhuanlan.zhihu.com
+
+# 脸书
+127.0.0.1 www.facebook.com
+
+# IG
+127.0.0.1 www.instagram.com
+
+# Youtube
+127.0.0.1 www.youtube.com
+
+# 微博
+127.0.0.1 weibo.com  # 微博网页版
+127.0.0.1 api.weibo.cn  # 微博小程序
+127.0.0.1 bi.im.weibo.cn  # 微博小程序
+
+# 微信
+127.0.0.1 mp.weixin.qq.com  # 微信推送
+127.0.0.1 res.wx.qq.com
+
+# 豆瓣
+127.0.0.1 www.douban.com
+
+# LeetCode
+127.0.0.1 leetcode-cn.com
+127.0.0.1 leetcode.com
+
